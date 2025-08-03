@@ -2,7 +2,6 @@
 
 ## 📚 About Data
 This dashboard analyzes total sales of 984,571.06, featuring monthly target vs actual comparisons, weekly trends, and regional performance. It highlights the top 3 customers, top 10 products, and shows sales distribution across 7 regions and 16 countries, with the UK leading at 46%.
-#salesdistributiondashboard
 
 ## 💡 Highlights
 
