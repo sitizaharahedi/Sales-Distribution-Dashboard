@@ -1,12 +1,12 @@
 # 🌍 Sales Distribution Dashboard
 
-An interactive dashboard built to analyze and monitor sales performance across multiple dimensions including total sales, top customers, top products, and regional contributions. It features dynamic visualizations for monthly targets vs. actuals, weekly trends, and country-level performance, helping businesses identify key markets, track progress, and uncover sales opportunities.
+An interactive dashboard built to analyze and monitor sales performance across multiple dimensions including total sales, top customers, top products and regional contributions. It features dynamic visualizations for monthly targets vs. actuals, weekly trends and country-level performance, helping businesses identify key markets, track progress and uncover sales opportunities.
 
 ---
 
 ## 📚 About Data
 This comprehensive sales dashboard presents key performance metrics including:
-- Shows total sales, top customers, and top products
+- Shows total sales, top customers and top products
 - Tracks monthly target vs. actual sales
 - Displays weekly sales trends
 - Compares performance across regions and countries
@@ -37,7 +37,7 @@ This comprehensive sales dashboard presents key performance metrics including:
 
 This dashboard will help:
 - Sales managers track overall sales performance across regions.
-- Analysts identify top-performing products, customers, and markets.
+- Analysts identify top-performing products, customers and markets.
 - Business leaders monitor sales trends to guide strategic decisions.
 - Teams compare monthly targets vs actual performance for improvement.
 - Stakeholders allocate resources effectively to boost revenue growth.
@@ -48,7 +48,7 @@ This dashboard will help:
 
 The data reveals that the UK dominates sales, contributing 46% of the total revenue, followed by Russia and Saudi Arabia as key markets. The top customers and products account for a significant share of overall sales, with strong performances that drive the company’s revenue growth. Monthly target vs actual comparisons and weekly trends highlight both periods of peak performance and moments where sales fell short, offering opportunities for targeted action.
 
-By examining sales patterns across regions and countries, the dashboard uncovers valuable insights into market behavior and customer preferences. These findings enable the sales team to refine marketing efforts, optimize inventory for high-demand products, and strengthen relationships with top customers, ultimately driving sustained growth across all regions.
+By examining sales patterns across regions and countries, the dashboard uncovers valuable insights into market behavior and customer preferences. These findings enable the sales team to refine marketing efforts, optimize inventory for high-demand products and strengthen relationships with top customers, ultimately driving sustained growth across all regions.
 
 ---
 
